@@ -26,9 +26,6 @@ namespace Route_Project
 
         //public abstract void Display();
 
-        public void Test() { 
-            
-        }
 
 
     }
